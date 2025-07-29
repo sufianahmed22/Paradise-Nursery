@@ -5,5 +5,4 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(),tailwindcss(),],
-  base: 'e-plantShopping', // Replace with your GitHub repo name
 });
